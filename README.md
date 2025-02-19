@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prajjawal-Vaishya
 - 👀 I’m interested in Game Development
 - 🎓 I'm currently pursuing a degree in Computer Science
-- 🌱 I’m currently learning Python, HTML, CSS, Javascript
+- 🌱 I’m currently learning C/C++, Python, HTML, CSS, Javascript
 - 💞️ I’m looking to collaborate on a project involving HTML, CSS, and JavaScript to create a dynamic and interactive web application
 - 📫 You can reach me through my LinkedIn profile- https://www.linkedin.com/in/prajjawal-vaishya/
 - 😄 Pronouns: He
