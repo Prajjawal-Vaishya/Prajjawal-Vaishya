@@ -2,7 +2,7 @@
   <samp>
     <b>PLAYER:</b> PRAJJAWAL VAISHYA
     <br>
-    <b>CLASS:</b> FRONTEND DEVELOPER
+    <b>CLASS:</b> GAME DEVELOPER
   </samp>
 </div>
 
