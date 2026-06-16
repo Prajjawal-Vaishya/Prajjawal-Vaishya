@@ -1,5 +1,3 @@
-# Prajjawal-Vaishya / README.md
-
 <div align="center">
 
 <img src="https://i.pinimg.com/originals/a4/09/bd/a409bd3c942ce8bd8ba90de2bc676100.gif" alt="Retro Gaming Banner" width="100%"/>
