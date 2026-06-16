@@ -63,9 +63,9 @@
 
 ### `> LOADING PLAYER BACKSTORY...`
 
-> ⚔️ I am a **Gameplay Programmer and XR Developer** specializing in **Unreal Engine 5** and **C++**. I forge complex logic into deeply responsive, polished player experiences across **PC, Console, Mobile, and XR** — from immersive **Extended Reality (AR/VR/MR)** environments to high-performance **web-based** deployments.
+> ⚔️ I am a **Gameplay Programmer and XR Developer** specializing in **Unreal Engine 5 (Blueprints & C++)**. I forge complex logic into deeply responsive, highly polished player experiences across **PC, Console, Mobile**, and immersive **Extended Reality (AR/VR/MR)** environments. Currently, I am leveling up my technical foundation by pursuing a BCA at Amity University (Class of 2027).
 >
-> 🎯 My focus is on crafting **scalable, platform-aware mechanics**, **intelligent game loops**, and **responsive player controllers** that feel flawless whether you're on a **Meta Quest headset**, a **desktop rig**, or a **mobile browser**.
+> 🎯 My focus is on crafting **scalable, platform-aware mechanics**, **intelligent game loops**, and **responsive player controllers** that feel flawless whether you're on a **Meta Quest headset**, a **desktop rig**, or a **mobile**.
 >
 > 🏗️ Driven by a **"Zero-to-Hero"** development philosophy — I don't just build rapid prototypes; I architect **robust, cross-platform systems** designed to endure.
 >
