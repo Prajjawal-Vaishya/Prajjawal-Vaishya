@@ -28,7 +28,7 @@
 <a href="https://www.linkedin.com/in/prajjawal-vaishya/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://x.com/Prajjawal_V"><img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 <a href="https://devpost.com/prajjawalvaishya"><img src="https://img.shields.io/badge/DEVPOST-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost"/></a>
-<a href="https://prajjawalvaishya.itch.io/"><img src="https://img.shields.io/badge/ITCH.IO-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"/></a>
+<a href="https://prajjawal-vaishya.itch.io/"><img src="https://img.shields.io/badge/ITCH.IO-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"/></a>
 
 <br>
 
